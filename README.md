@@ -14,7 +14,6 @@ A simple to do list program that save the data in a file named "todos.txt"
 
 > use "rem all" to remove all the todos
 
-> use "swap <todo_index_1> <todo_index_2> to swap them" 
+> use "swap <todo_index_1> <todo_index_2>" to swap them
 
-> use "help" to see this message
-> 
+> use "help" to see the help
