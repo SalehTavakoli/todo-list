@@ -1,6 +1,10 @@
 # simple-todo-list
 A simple to do list program that save the data in a file named "todos.txt"
+
+
 ![Help of the program](https://github.com/SalehTavakoli/todo-list/blob/main/help.png)
+
+
 ![Screenshot of the program](https://github.com/SalehTavakoli/todo-list/blob/main/screenshot.png)
 
 # How to use?
